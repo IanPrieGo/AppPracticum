@@ -1,0 +1,10 @@
+Nombre: "Ciclo 1"
+
+
+Duracion total: 60Minutos
+
+secciones[
+	Trabajo:10Minutos
+	Descanso:5Minutos
+	Trabajo:10Minutos	
+]

@@ -1,0 +1,17 @@
+App
+
+
+¿Que tiene que hacer la App?
+
+	- Avisar al usuario cuando moverse/levantarse/descansar
+	- Crear ciclos de trabajo personalizados
+	- Elegir ciclo de trabajo
+	- Cambiar la iluminacion y volumen de la compu en funcion de en que parte del ciclo de trabajo se encuentre el usuario
+	
+	
+	
+Notifica al usuario cuando hay que descansar, moverse, y trabajar
+
+Permite generar Sesiones de Trabajo en las que el usuario define los tiempo que quiere para cada actividad.
+
+Recomendaciones de ejercicios y practicas para hacer durante el descanso

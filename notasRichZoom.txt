@@ -1,0 +1,28 @@
+COMPROMISOS
+
+ + 2 manuales de marca: 
+	- Manual de Estudio: Simbolo, tipografia, uso de color, etc... del estudio/empresa/equipo
+	- Manual de Marca(PAUSA): reticulas, etc..
+	
+ + Simulacro
+ 
+ + Definir Procesos & Materiales
+ 
+ + Avanzar Gastos fijos & variables
+ 
+ + PEST & FODA terminados
+ 
+ + Avanzar Costo de Produccion
+
+DEFINIR TODOS LOS PROCESOS Y MATERIALES
+
+Comentarios
+	- Diagrama edtudio de mercado de manera visual
+	- Desarrollar como seria la dinamica entre escritorio y la app
+
+	- Pensar en produccion en masa, no de la produccion de un solo prototipo
+
+	-Proxima sesion en linea
+
+
+
